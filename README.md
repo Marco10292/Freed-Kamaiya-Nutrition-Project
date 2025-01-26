@@ -18,7 +18,7 @@ The dataset comprises 52 fields, but this analysis will focus on the *first 18 v
 ## 💡 Excel
 
 📍 [File:](https://github.com/Marco10292/Freed-Kamaiya-Nutrition-Project/blob/main/Freed-Kamaiya%20nutrition%20project.xlsx)
-- On **Excel**, I first outlined the composition of the variables and provided a brief description, then I indexed each woman's name.
+- On Excel, I first outlined the composition of the variables and provided a brief description, then I indexed each woman's name.
 I choose **GLOBADEQUACY** (a variable that indicates how much all nutrients' intake are covered, where 100 = perfect coverage ) and **MDDW** (Minimum Dietary Diversity of Women score, from 0 to 10) as *'target variables'*. 
 They indicate the general dietary well-being of the women.
 - I applied a **general descriptive statistical analysis** to both variables, along with calculating the correlation indices between them.
@@ -38,6 +38,6 @@ They indicate the general dietary well-being of the women.
 
 **Open the link to visualize and interact with the Tableau Dashboard**
 
-**Tableau:** [Link]()
+**Tableau:** [Link](https://public.tableau.com/app/profile/marco.gamberini/viz/Freed-Kamaiya-Nutrition-Project/Dashboard1?publish=yes)
 
 ![image](https://github.com/user-attachments/assets/7a88afd7-f38b-4bb1-a7c0-b4336dfef93a)
